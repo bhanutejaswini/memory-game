@@ -1,3 +1,25 @@
+# Memory Game
+Built using HTML, CSS and JavaScript
+
+## Project Images
+Landing Page:
+
+![image](https://github.com/bhanutejaswini/memory-game/assets/29518361/5caf0978-8f0a-4db4-8d64-9d94962101fb)
+
+After clicking on a tile:
+
+![image](https://github.com/bhanutejaswini/memory-game/assets/29518361/c8c14152-75eb-4bfa-a6c4-b25b203d6928)
+
+When it is not a match:
+
+![image](https://github.com/bhanutejaswini/memory-game/assets/29518361/3d88ff59-7c5c-4953-8647-6bb2d57714b6)
+
+
+When it is a match:
+
+![image](https://github.com/bhanutejaswini/memory-game/assets/29518361/4859cf28-cfc6-45f0-899c-35b07cb68b98)
+
+
 ## Credits
 
 Night Sky - Photo by <a href="https://unsplash.com/@colinwatts?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Colin Watts</a> on <a href="https://unsplash.com/photos/a-view-of-the-night-sky-with-the-milky-in-the-distance-eYXrvDWeJWs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
